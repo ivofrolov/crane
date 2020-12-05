@@ -1,0 +1,3 @@
+[submodule "kastle"]
+	path = kastle
+	url = git@github.com:bastl-instruments/kastle.git
